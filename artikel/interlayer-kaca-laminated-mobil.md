@@ -1,0 +1,200 @@
+---
+article_id: KMO-03-02
+title: "Cara Kerja Interlayer pada Kaca Laminated"
+slug: "interlayer-kaca-laminated-mobil"
+description: "Distinguish constructions and verify safety-glazing evidence"
+status: outline
+publication_date: "2025-09-22"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: KMO-03
+primary_intent: "Understand laminated behavior"
+reader_community: "Kaca.co.id"
+reader_address: "Sobat Kaca.co.id"
+final_route: "/artikel/interlayer-kaca-laminated-mobil.html"
+technical_review: required
+sources:
+  - "https://peraturan.bpk.go.id/Details/321157/permenperin-no-15-tahun-2025"
+  - "https://peraturan.bpk.go.id/Download/396468/permenperin-no-15-tahun-2025.pdf"
+  - "https://pesta.bsn.go.id/produk/detail/11826-sni82102018"
+  - "https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/R043r2e.pdf"
+  - "https://www.iso.org/standard/87786.html"
+  - "https://www.iso.org/standard/56215.html"
+  - "https://www.iso.org/standard/8928.html"
+  - "https://www.iso.org/standard/57636.html"
+  - "https://www.pilkington.com/en/us/automotive/products/definitions"
+  - "https://my.pilkington.com/sitecore/content/pilkington/uk/automotive/original-equipment/automotive-glazing/automotive-processes?sc_lang=en-GB"
+  - "https://www.agc-automotive.com/en/products-and-solutions/laminated-acoustic-glass"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Cara Kerja Interlayer pada Kaca Laminated
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Cara Kerja Interlayer pada Kaca Laminated”
+- **Reader and situation:** Distinguish constructions and verify safety-glazing evidence
+- **Reader outcome:** Distinguish constructions and verify safety-glazing evidence
+- **Primary intent:** Understand laminated behavior
+- **Reader community:** `Kaca.co.id`
+- **Primary friendly address:** `Sobat Kaca.co.id`
+- **Natural variants:** `Kawan Kaca.co.id` and `Teman Kaca.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Mechanism only; product-specific performance needs evidence
+- **Final public route:** `/artikel/interlayer-kaca-laminated-mobil.html`
+- **Appointed CMS date:** `2025-09-22` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Sobat Kaca.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Kerja Interlayer pada Kaca Laminated**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Sobat Kaca.co.id`, `Kawan Kaca.co.id`, or `Teman Kaca.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `mobil.kaca.co.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** Every parent contains six distinct briefs; the frozen plan already assigns one owner for construction, provenance, fitment, repair, bonding, electronics/calibration, defects, regulation, and commercial terms.
+- **Limits:** Do not infer live inventory, prices, service areas, vehicle compatibility, or workshop capability from the editorial inventory. Recheck the frozen files if their authority commit changes.
+
+### KR-02
+
+- **Original sources:** [Permenperin No. 15 Tahun 2025 — official BPK record](https://peraturan.bpk.go.id/Details/321157/permenperin-no-15-tahun-2025); [official regulation PDF](https://peraturan.bpk.go.id/Download/396468/permenperin-no-15-tahun-2025.pdf); [SNI 8210:2018 — official BSN record](https://pesta.bsn.go.id/produk/detail/11826-sni82102018).
+- **Purpose for this article:** Establish the current Indonesian product-compliance baseline without importing building-glass rules.
+- **Safe grounded facts:** The regulation was set on 27 March 2025, promulgated on 25 April 2025, and became effective on 25 October 2025. The public SNI scope covers safety glazing for vehicle categories L, M, N, O, and T; excludes bullet-resistant and double glazing; and states that tempered windshield use is limited to vehicles whose speed is below 40 km/h.
+- **Limits:** The public BSN page is an abstract, not the full 81-page standard. Exact classifications, markings, specimens, test methods, acceptance criteria, certification routes, exemptions, transition provisions, and surveillance require the licensed standard plus the complete current regulation and implementation documents (`GATE-01`, `GATE-04`).
+
+### KR-06
+
+- **Original sources:** [UN Regulation No. 43 — official UNECE public text](https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/R043r2e.pdf); [ISO 3536:2026 — official ISO catalog](https://www.iso.org/standard/87786.html).
+- **Purpose for this article:** Supply automotive-specific terminology and a recognized approval/marking framework without misrepresenting it as Indonesian law.
+- **Safe grounded facts:** These sources are expressly vehicle-glazing sources, unlike architectural/building-glass standards. UN approval marks identify an approval framework and classification; a visible mark still must be read against the exact regulation revision, approval record, part, and market.
+- **Limits:** Neither source proves Indonesian SNI conformity or exact replacement fitment. ISO full text is licensed; do not reproduce unpublished definitions. Verify the mark, approval authority, revision, test record, and Indonesian product evidence (`GATE-04`).
+
+### KR-07
+
+- **Original sources:** [ISO 3537:2015 mechanical tests](https://www.iso.org/standard/56215.html); [ISO 3538:1997 optical tests](https://www.iso.org/standard/8928.html); [ISO 3917:2016 environmental durability tests](https://www.iso.org/standard/57636.html).
+- **Purpose for this article:** Name relevant automotive test domains while stopping writers from inventing thresholds or treating visual checks as certification.
+- **Safe grounded facts:** The official abstracts distinguish impact/mechanical, optical, and environmental test purposes. As of verification, ISO 3917:2016 is under systematic review.
+- **Limits:** Official catalog abstracts do not disclose all procedures or acceptance values. A field visual inspection cannot establish laboratory compliance. Obtain the licensed current edition and named report before citing a method or threshold; refresh ISO 3917 when its review closes.
+
+### KR-09
+
+- **Original sources:** [Pilkington Automotive definitions](https://www.pilkington.com/en/us/automotive/products/definitions); [Pilkington automotive processes](https://my.pilkington.com/sitecore/content/pilkington/uk/automotive/original-equipment/automotive-glazing/automotive-processes?sc_lang=en-GB); [AGC laminated acoustic glass](https://www.agc-automotive.com/en/products-and-solutions/laminated-acoustic-glass).
+- **Purpose for this article:** Provide clear manufacturer-grounded construction explanations while preserving vehicle- and part-specific exceptions.
+- **Safe grounded facts:** Manufacturer sources describe PVB-style laminated construction and heat/cool tempering processes. Pilkington notes laminated glazing is increasingly used in side windows; AGC identifies laminated acoustic glazing across windshield, side, rear, and roof positions.
+- **Limits:** Manufacturer education pages do not approve a particular part, emergency-egress plan, or Indonesian application. Do not generalize brand performance claims, exact thicknesses, penetration times, or universal position rules. Resolve actual part construction (`GATE-03`, `GATE-04`).
+
+## Evidence gates
+
+- **GATE-01:** Resolve the gate from current project evidence and competent review.
+- **GATE-02:** Resolve the gate from current project evidence and competent review.
+- **GATE-04:** Resolve the gate from current project evidence and competent review.
+- **GATE-06:** Resolve the gate from current project evidence and competent review.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/ganti-kaca-mobil-toyota-yaris-tangerang.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/ganti-kaca-mobil-toyota-yaris-tangerang-selatan.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/ganti-kaca-mobil-toyota-yaris-jakarta-utara.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/ganti-kaca-mobil-toyota-yaris-jakarta-timur.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/ganti-kaca-mobil-toyota-yaris-jakarta-selatan.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/ganti-kaca-mobil-toyota-yaris-jakarta-pusat.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `KMO-03-01` → `/artikel/kaca-laminated-vs-tempered-mobil.html` — Kaca Laminated vs Tempered pada Mobil
+- `KMO-03-03` → `/artikel/pola-pecah-kaca-tempered-mobil.html` — Pola Pecah Kaca Tempered dan Implikasinya
+- `KMO-03-04` → `/artikel/bukti-safety-glazing-otomotif.html` — Safety Glazing Otomotif: Bukti Apa yang Perlu Diperiksa
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Hasil akhir dan prasyarat
+
+- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
+- **Tie back to this article:** Keep the explanation specific to “Cara Kerja Interlayer pada Kaca Laminated”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Langkah 1 — tetapkan scope
+
+- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
+- **Tie back to this article:** Keep the explanation specific to “Cara Kerja Interlayer pada Kaca Laminated”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
+- **Tie back to this article:** Keep the explanation specific to “Cara Kerja Interlayer pada Kaca Laminated”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Langkah 3 — jalankan urutan kerja
+
+- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
+- **Tie back to this article:** Keep the explanation specific to “Cara Kerja Interlayer pada Kaca Laminated”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Hold point dan kondisi berhenti
+
+- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
+- **Tie back to this article:** Keep the explanation specific to “Cara Kerja Interlayer pada Kaca Laminated”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Verifikasi hasil dan handover
+
+- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
+- **Tie back to this article:** Keep the explanation specific to “Cara Kerja Interlayer pada Kaca Laminated”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Sobat Kaca.co.id!` and uses friendly `Kaca.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
